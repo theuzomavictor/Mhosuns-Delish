@@ -298,9 +298,23 @@ nav a:hover {
 
     .menu-img {
         width: 95%;
-        height: 300px;
+        height: 250px;
         margin: 10px 5px;
         margin-bottom: 0px;
+    }
+
+    #Menu > div {
+        background-color: white;
+        margin-top: 20px auto;
+        width: 35%;
+        height: 340px;
+        display: inline-block;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 5px 5px black;
+        align-items: center;
+        margin-left: 55px;
+        margin-bottom: 70px;
     }
 
     #Menu .menu-tile > button p {
@@ -426,6 +440,7 @@ nav a:hover {
         height: 340px;
         display: inline-block;
         text-align: center;
+        border-radius: 10px;
         box-shadow: 5px 5px black;
         align-items: center;
         margin-left: 70px;
