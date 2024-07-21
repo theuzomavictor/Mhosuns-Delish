@@ -193,6 +193,7 @@ nav a:hover {
 
 #Menu .cta-text {
     font-size: 1.5rem;
+    font-weight: 500;
     margin: 20px 70px;
     padding-bottom: 30px;
 }
