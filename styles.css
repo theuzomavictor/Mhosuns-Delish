@@ -723,7 +723,7 @@ nav a:hover {
 @media (min-width: 1316px) {
     /* CSS styles */
     .hero-img {
-        margin: 30px 300px;
+        margin: 30px 320px;
         margin-bottom: 10px;
         width: 50%;
         height: 400px;
@@ -736,7 +736,7 @@ nav a:hover {
         padding: 10px 20px;
         margin-top: 12px;
         margin-bottom: 20px;
-        margin-left: 300px;
+        margin-left: 320px;
         border-radius: 20px;
         font-size: 1.2rem;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
