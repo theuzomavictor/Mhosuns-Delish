@@ -510,7 +510,7 @@ nav a:hover {
         font-size: 4.5rem;
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
-        margin: 20px 250px;
+        margin: 20px 200px;
         margin-top: 0px;
     }
 
@@ -518,16 +518,16 @@ nav a:hover {
         color: black;
         font-size: 20px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        margin: 0px 300px;
+        margin: 0px 200px;
         text-align: center;
         margin-top: 10px;
     }
 
     .hero-img {
-        margin: 30px 310px;
+        margin: 30px 220px;
         margin-bottom: 10px;
         width: 50%;
-        height: 400px;
+        height: 300px;
         box-shadow: 5px 5px black;
         border-radius: 10px;
     }
@@ -537,7 +537,7 @@ nav a:hover {
         padding: 10px 20px;
         margin-top: 12px;
         margin-bottom: 20px;
-        margin-left: 300px;
+        margin-left: 220px;
         border-radius: 20px;
         font-size: 1.2rem;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -591,14 +591,14 @@ nav a:hover {
     }
 
     #Menu .cta-text {
-        font-size: 2rem;
-        margin: 0px 350px;
+        font-size: 2.3rem;
+        margin: 0px 200px;
         padding-bottom: 30px;
     }
 
     #Menu .cta-text a {
         color: #fd6604;
-        font-size: 2rem;
+        font-size: 2.3rem;
         margin: 20px 70px;
         padding-bottom: 30px;
     }
