@@ -112,6 +112,7 @@ nav a:hover {
 /* Hero button style */
 .button {
     background-color: #fd6604;
+    color: black;
     padding: 10px 20px;
     margin-top: 12px;
     margin-bottom: 20px;
